@@ -21,7 +21,7 @@ This is a web application built in Go that provides text encryption and decrypti
 
     ```bash
     git clone https://github.com/majdjalab/go-encryption-server.git
-    cd encryption-web-app
+    cd go-encryption-server
     ```
 
 2. **Build the application**:
